@@ -1,9 +1,8 @@
 {
-    "token": "MTM1NDY1MzA4MzIyMDcwNTM2MQ.GI3gIh.NoBfV_pvLyVQEg7j7eaTpRaMtAS0MEpw7-yJQA",
+    "token": "",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "mongodb+srv://Pranav:Pranav@discordbot.bnly1tk.mongodb.net/?retryWrites=true&w=majority&appName=Discordbot
-",
+    "mongodbUri": "mongodb+srv://Pranav:Pranav@discordbot.bnly1tk.mongodb.net/?retryWrites=true&w=majority&appName=Discordbot",
     "excessCommands": {
         "utility": true,
         "other": true,
